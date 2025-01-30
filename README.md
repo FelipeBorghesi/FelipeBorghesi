@@ -1,14 +1,8 @@
 ## Opa eu sou o Felipe Borghesi
 
-- 🔭 Atualmente trabalho como analistade suporte
+- 🔭 Atualmente trabalho como analista
 - 🌱 Estudando React, Delphi, Oracle SQL
 - 📫 Contato: felipebuenoborghesi@gmail.com
-
-- <div>
-  <a href= "https://github.com/FelipeBorghesi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeBorghesi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBorghesi&layout=compact&langs_count=16&theme=dark"/>
-  </div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Borghesi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
