@@ -1,4 +1,4 @@
-## Opa eu sou o Felipe Borghesi
+## Opa! Bem-vindo ao meu GitHub!
 
 - 🔭 Atualmente trabalho como analista
 - 🌱 Estudando React, Delphi, Oracle SQL
