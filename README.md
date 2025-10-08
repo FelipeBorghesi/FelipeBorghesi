@@ -1,7 +1,7 @@
 ## Opa! Bem-vindo ao meu GitHub!
 
 - 🔭 Atualmente trabalho como analista
-- 🌱 Estudando React, Delphi, Oracle SQL
+- 🌱 Estudando Node, Delphi, Oracle SQL
 - 📫 Contato: felipebuenoborghesi@gmail.com
 
   <div style="display: inline_block"><br>
