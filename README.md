@@ -1,7 +1,7 @@
 ## Opa! Bem-vindo ao meu GitHub!
 
 - 🔭 Desenvolvedor Back-end
-- 🌱 Estudando Node, Delphi, PHP, Oracle SQL
+- 🌱 Node, Delphi, PHP, Python, Oracle SQL
 - 📫 Contato: felipebuenoborghesi@gmail.com
 
   <div style="display: inline_block"><br>
